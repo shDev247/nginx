@@ -1,4 +1,4 @@
-## NGINX STUDY
+<img src="https://nginx.org/img/nginx_logo.svg" width=300px>
 
 ### [docs]
 1. <a href="https://github.com/shDev247/nginx/blob/main/docs/1.BASIC.md">basic</a>
